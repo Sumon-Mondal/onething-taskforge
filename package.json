@@ -1,0 +1,7 @@
+{
+  "name": "onething",
+  "version": "1.0.0",
+  "description": "Brain dump in, one clear next step out. Accessible, offline, no dependencies.",
+  "scripts": { "test": "node --test tests/core.test.js", "start": "python3 -m http.server 8000" },
+  "license": "MIT"
+}
